@@ -6,3 +6,5 @@ First, I create a new repo in github, and clone it by Github Desktop. And then o
 ## inspiration, process documentation, struggles, references, and questions, like your ITP blog
 Recently, I am learning how to use unity to create animations by 1 million cubes. I want to upload it on the web to let others see it.
 ## how you deployed your work to Glitch.com.
+I imported my github Repo's URL to Glitch.
+https://ultra-quiver-trail.glitch.me
